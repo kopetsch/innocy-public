@@ -95,7 +95,7 @@ Es würde sich also ein viel präziseres Bild ergeben, wenn ausschließlich mit 
 
 # Die Organisation
 
-Es soll von Beginn an ein offenes und transparentes Ökosystem entwickelt werden. Die e Mitarbeit an der Plattform soll für alle Interessierte möglich sein.
+Es soll von Beginn an ein offenes und transparentes Ökosystem entwickelt werden. Die Mitarbeit an der Plattform soll für alle Interessierte möglich sein.
 Vorbild hierfür sind die im Open-Source-Software Bereich etablierten Foundations, wie z.B. Linux, Apache, Eclipse und viele mehr.
 
 ![Aufbereitung von Geo-Informationen](img/atlas-1.png)
