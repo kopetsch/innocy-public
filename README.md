@@ -1,5 +1,5 @@
  
-![Monitoring](img/innocy-banner-q.png)
+![Monitoring](img/innocy-banner.png)
 
 # Projektname: INNOCY!
 *wichtig: MIT Ausrufezeichen!*
